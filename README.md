@@ -1,2 +1,3 @@
-# me-learning
-I'm learning coding, it's probably all terrible.
+# Initialize
+
+Unfortunately, this is just a text editor, so it just sounds cool, but still, I got to say initialize, and that's good.
